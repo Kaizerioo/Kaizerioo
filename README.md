@@ -10,34 +10,37 @@
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 👨‍💻 About Me
 <p>
-  Saya seorang mahasiswa/pengembang perangkat lunak yang bersemangat dalam pengembangan aplikasi mobile dan web. Saat ini saya sedang mendalami Flutter untuk membuat aplikasi lintas platform yang indah dan fungsional. Saya juga tertarik pada bidang Data Science dan Machine Learning.
+  I'm a Data Scientist with a deep curiosity for exploration. My core passion lies in uncovering stories and insights from data, but I am also actively exploring the intersection of technology and user-centric design through Web Development and UI/UX.
 </p>
 
-- 🔭 Saat ini saya sedang mengerjakan **proyek aplikasi mobile dengan Flutter**.
-- 🌱 Saya sedang belajar **manajemen state lanjutan di Flutter dan arsitektur backend dengan Node.js**.
-- 👯‍♀️ Saya mencari kolaborasi untuk **proyek open-source yang berhubungan dengan edukasi atau teknologi hijau**.
-- 💬 Tanya saya tentang **Flutter, Dart, Python, atau C++**.
-- 📫 Cara tercepat menghubungi saya: **[LinkedIn](https.www.linkedin.com/in/kaizerio-emanuele-245a96297/)**.
-- ⚡ Fakta menarik: **Saya suka bermain catur dan mendengarkan musik lo-fi saat coding.**
+- 🔭 I’m currently working on **a project that visualizes complex datasets through an interactive web interface.**
+- 🌱 I’m currently learning **advanced front-end frameworks and UI/UX design principles to create more intuitive user experiences.**
+- 👯‍♀️ I’m looking to collaborate on **projects that bridge the gap between data analysis and beautiful, user-friendly web applications.**
+- 💬 Ask me about **Python for data science, web development, or how to make data visually appealing!**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/kaizerio-emanuele-245a96297/)**.
+- ⚡ Fun fact: **I enjoy playing chess and listening to lo-fi music while coding.**
 
 ---
 
-### 🛠️ Keahlian & Teknologi
+### 🛠️ Skills & Technologies
 
-Berikut adalah beberapa teknologi yang saya kuasai dan gunakan:
+Here are some of the technologies I work with, reflecting my focus on Data Science and exploration in Web Development.
 
 <table width="100%">
   <tr>
     <td align="center" width="180">
-      <b>Mobile Development</b>
+      <b>Data Science & AI</b>
     </td>
     <td>
-      <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-      <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+      <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+      <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
@@ -55,21 +58,18 @@ Berikut adalah beberapa teknologi yang saya kuasai dan gunakan:
   </tr>
   <tr>
     <td align="center">
-      <b>Data Science & AI</b>
+      <b>Mobile Development</b>
     </td>
     <td>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-      <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-      <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+      <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+      <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
+      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>Lainnya</b>
+      <b>Others</b>
     </td>
     <td>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -83,20 +83,23 @@ Berikut adalah beberapa teknologi yang saya kuasai dan gunakan:
 
 ---
 
-### 🚀 Proyek Unggulan Saya
+### 🚀 My Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Kaizerioo/Nama-Repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaizerioo&repo=Nama-Repo-1&theme=vision-friendly-dark" alt="Proyek 1" />
-  </a>
-  <a href="https://github.com/Kaizerioo/Nama-Repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaizerioo&repo=Nama-Repo-2&theme=vision-friendly-dark" alt="Proyek 2" />
-  </a>
-</div>
+A selection of projects that showcase my skills in data analysis, machine learning, and natural language processing.
 
----
+- 📊 **Brain Tumor Classification**<br>
+  *A project comparing the performance of Support Vector Machine (SVM) and K-Nearest Neighbors (KNN) models for classifying MRI brain tumor images. Implemented using Python and Scikit-learn.*<br>
+  **[View on GitHub](https://github.com/Kaizerioo/Brain_Tumor_Classification_using_SVM-KNN)**
 
-### 📊 Statistik GitHub Saya
+- 📈 **Education Data Exploration**<br>
+  *An exploratory data analysis (EDA) on global education datasets to uncover insights and patterns of inequality. Performed using R, Dplyr, and Ggplot2.*<br>
+  **[View on GitHub](https://github.com/Kaizerioo/Inequality-in-education-EDA)**
+
+- 📰 **News Text Summarization**<br>
+  *Developed a system to automatically summarize news articles using NLP techniques, helping to extract key information efficiently. Built with Python and NLTK.*<br>
+  **[View on GitHub](https://github.com/Kaizerioo/DailyNews_TextSummarization)**
+
+### 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaizerioo&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true" alt="Kaizerioo's Stats" />
@@ -108,9 +111,9 @@ Berikut adalah beberapa teknologi yang saya kuasai dan gunakan:
 
 ---
 
-### 📫 Hubungi Saya
+### 📫 Connect with Me
 
-Mari terhubung dan berkolaborasi!
+Let's connect and collaborate!
 
 <p align="center">
   <a href="https://github.com/Kaizerioo">
